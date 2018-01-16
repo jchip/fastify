@@ -82,7 +82,7 @@
     "ienoopen": "^1.0.0",
     "joi": "~11.3.4",
     "pre-commit": "^1.2.2",
-    "semver": "^5.4.1",
+    "semver": "^5.5.0",
     "serve-static": "^1.13.1",
     "simple-get": "^2.7.0",
     "snazzy": "^7.0.0",
